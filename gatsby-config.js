@@ -8,6 +8,13 @@ module.exports = {
   /* Your site config here */
   plugins: [
     'gatsby-ipfs-web-wallet',
-    'gatsby-plugin-bch-tx-history'
+    'gatsby-plugin-bch-tx-history',
+    'bch-wallet-plugin-postoffice',
+    {
+      resolve: 'gatsby-plugin-compile-es6-packages',
+      options: {
+        modules: ['bch-wallet-plugin-postoffice']
+      }
+    }
   ]
 }
