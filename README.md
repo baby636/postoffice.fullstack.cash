@@ -10,3 +10,6 @@ This repository combined bch-wallet-starter with bch-wallet-plugin-postoffice, t
 For more background on the SLP Post Office idea:
 - [PSF Post Office Demo Video](https://youtu.be/vtv9bAQx5LE)
 - [Vin Armani's Post Office Demo](https://youtu.be/IATkQEdRdVI)
+
+## License
+[MIT](./LICENSE.md)
