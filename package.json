@@ -1,6 +1,6 @@
 {
-  "name": "bch-wallet-starter",
-  "description": "A BCH web wallet starter for Gatsby.",
+  "name": "postoffice.fullstack.cash",
+  "description": "Demo of the SLP Post Office plugin for bch-wallet-starter ",
   "version": "1.0.0",
   "license": "MIT",
   "author": "Chris Troutner <chris.troutner@gmail.com>",
@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Permissionless-Software-Foundation/bch-wallet-starter"
+    "url": "https://github.com/Permissionless-Software-Foundation/postoffice.fullstack.cash"
   },
   "bugs": {
-    "url": "https://github.com/Permissionless-Software-Foundation/bch-wallet-starter/issues"
+    "url": "https://github.com/Permissionless-Software-Foundation/postoffice.fullstack.cash/issues"
   },
   "devDependencies": {
     "semantic-release": "^17.3.9",
