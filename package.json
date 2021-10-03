@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "semantic-release": "^17.3.9",
-    "standard": "^16.0.3"
+    "standard": "^16.0.4"
   },
   "release": {
     "publish": [
